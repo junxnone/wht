@@ -8,6 +8,6 @@
 - 1997 Checkers And Chess - IBM's Deep Blue
 - 2010~ DeepMind
   - 2013-12 Atari
-  - 2016-01 AlphaGo - DeepMind
-  - 2017-04 AlphaGo Zero - DeepMind
+  - 2016-01 AlphaGo
+  - 2017-04 AlphaGo Zero
 
