@@ -1,3 +1,2 @@
-# template_ht_markline
+# History Timeline
 
-This is a template for create markline history timeline
