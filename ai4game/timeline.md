@@ -1,4 +1,4 @@
-# Transformer History
+# AI Game History
 
 - age: show
 - mention: https://github.com/{@mention}
