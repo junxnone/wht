@@ -1,25 +1,26 @@
-# demo timeline
+# Transformer History
 
 - age: show
 - mention: https://github.com/{@mention}
 
-## Part 1
+## NLP
 
-- 1989 t1 **Bold**
-- 2001/09 t2
-- 2001/09~2003/06 t4
-- 2011/07~ t4
-  - 2011-11-11 t5
-  - 2013-04-20 t6
+- 2017-06 Attention Is All You Need [[Paper](https://arxiv.org/pdf/1706.03762.pdf)] [[Code](https://nbviewer.jupyter.org/github/tensorflow/docs/blob/master/site/en/tutorials/text/transformer.ipynb)]
 
 
 
-## Part 2
 
-- 1999 t1
-- 2011/09 t2
-- 2013/09~2018/06 t4
-- 2016/07~ t4
-  - 2016-11-11 t5
-  - 2018-04-20 t6
-- 2016-01-03~ t4
+## Vision
+
+- 2020-05 **[DETR]** End-to-End Object Detection with Transformers [[Paper](https://arxiv.org/abs/2005.12872v3)] [[Code](https://github.com/facebookresearch/detr)] **[Object Detection/Segmentation]**
+- 2020-06 **[Linformer]** Linformer: Self-Attention with Linear Complexity[[Paper](https://arxiv.org/abs/2006.04768v3)] [[Code](https://github.com/lucidrains/linformer)] **[Optimizition]**
+- 2020-10 **[ViT]** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [[Paper](https://arxiv.org/abs/2010.11929)] [[Code](https://github.com/google-research/vision_transformer)] **[Classification]**
+- 2020-10 **[Deformable DETR]** Deformable DETR: Deformable Transformers for End-to-End Object Detection(**ICLR**)[[paper](https://arxiv.org/abs/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
+- 2020-11 **[UP-DETR]** UP-DETR: Unsupervised Pre-training for Object Detection with Transformers [[Paper](https://arxiv.org/abs/2011.09094)]
+- 2020-11 **[LSTR]** End-to-end Lane Shape Prediction with Transformers [[Paper](https://arxiv.org/pdf/2011.04233.pdf)] [[Code](https://github.com/liuruijin17/LSTR)] **[Lane detection]**
+
+## Survey
+
+- 2021-01 Transformers in Vision: A Survey [[Paper](https://arxiv.org/pdf/2101.01169.pdf)]
+- 2021-01 A Survey on Visual Transformer [[Paper](https://arxiv.org/pdf/2012.12556.pdf)]
+
