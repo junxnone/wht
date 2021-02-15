@@ -1,4 +1,4 @@
-# OCR History
+# Covid-19 History
 
 - age: show
 - mention: https://github.com/{@mention}
