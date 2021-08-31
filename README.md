@@ -19,4 +19,4 @@
 - [NAS History](https://junxnone.github.io/wht/tech/nas/)
 - [OCR History](https://junxnone.github.io/wht/tech/ocr/)
 - [AI Game History](https://junxnone.github.io/wht/tech/aigame/)
-- [Linux Desktop History](https://junxnone.github.io/wht/tech/linuxdesktop
+- [Linux Desktop History](https://junxnone.github.io/wht/tech/linuxdesktop)
