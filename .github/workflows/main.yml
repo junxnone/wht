@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: junxnone/timeline_issue2md@master
+      - uses: junxnone/timeline_issue2md@main
         with:
           branch: "main" # default to main
           dir: "data" # default to _posts
