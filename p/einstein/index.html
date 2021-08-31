@@ -29,7 +29,7 @@
   <script>
     seajs.use(["jquery", "markline"], function($, Markline){
       $(function(){
-        $.get("timeline.md", function(markdown){
+        $.get("../data/einstein.md", function(markdown){
           var mark = new Markline("#life", markdown);
           mark.render();
           document.title = (mark.data.title || "timeline.md").replace(/<[^>]+>/g, "");
