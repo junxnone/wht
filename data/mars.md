@@ -1,5 +1,4 @@
-# 火星探索历史 [[编辑](https://github.com/junxnone/wht/issues/2)]
-
+# 火星探索历史 
 - age: show
 - mention: https://github.com/{@mention}
 
