@@ -2,6 +2,8 @@
 
 ## 大事件
 - [Covid-19 History](https://junxnone.github.io/wht/covid19/)
+- [食品安全事件](https://junxnone.github.io/wht/food/)
+
 
 ## 探索
 - [Mars Discovery](http://junxnone.github.io/wht/mars)
