@@ -23,7 +23,7 @@
 - 2021-01 **[BoTNet]** Bottleneck Transformers for Visual Recognition [[Paper](https://arxiv.org/abs/2101.11605)] [[Code](https://paperswithcode.com/paper/bottleneck-transformers-for-visual#code)]  [[Note](https://github.com/junxnone/tech-io/issues/929)]
 - 2021-01 **[T2T-ViT]** Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [[Paper](https://arxiv.org/abs/2101.11986)] [[Code](https://github.com/yitu-opensource/T2T-ViT)] [[Note](https://github.com/junxnone/tech-io/issues/928)] #Classification
 - 2021-02 **[PVT]** Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions[[Paper](https://arxiv.org/abs/2102.12122)] [[Code](https://github.com/whai362/PVT)] [[Note](https://github.com/junxnone/tech-io/issues/939)] #Backbone
-- 2021-02 **[TNT]** Transformer in Transformer[[Paper](https://arxiv.org/abs/2103.00112)] [[Code](https://github.com/huawei-noah/noah-research/tree/master/TNT)] [[Note](https://github.com/junxnone/tech-io/issues/940)] #Classification
+- 2021-02 **[TNT]** Transformer in Transformer[[Paper](https://arxiv.org/abs/2103.00112)] [[Code](https://github.com/huawei-noah/noah-research/tree/master/TNT)] [[Note](https://github.com/junxnone/aiwiki/issues/360)] #Classification
 - 2021-03 **[Swin-Transformer]** Swin Transformer: Hierarchical Vision Transformer using Shifted Windows[[Paper](https://arxiv.org/abs/2103.14030)] [[Code](https://github.com/microsoft/Swin-Transformer)] [[Note](https://github.com/junxnone/tech-io/issues/958)] #Backbone 
 
 ## Survey
