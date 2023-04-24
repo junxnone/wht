@@ -190,7 +190,7 @@ define("markline/0.6.0/timeline-debug", ["jquery/2.1.1/jquery-debug"], function(
   var $ = require("jquery/2.1.1/jquery-debug");
   var offset_left = 30; // offset left for group name.
   var offset_top = 20; // offset top for date header.
-  var year_width = 5; // width per date (year).
+  var year_width = 100; // width per date (year).
   function Markline(element, data) {
     this._element = $(element);
     this.title = data.title || "";
